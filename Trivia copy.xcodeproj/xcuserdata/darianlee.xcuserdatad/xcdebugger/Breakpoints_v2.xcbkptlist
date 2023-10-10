@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7FE80A5A-4FF6-489C-A07C-98D37DB74FD8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4FA34EC-E1F5-4BE6-A73E-AA0808E88188"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Trivia/CategorySelectorVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "CategorySelectorVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D4FA34EC-E1F5-4BE6-A73E-AA0808E88188 - 246c64f102822269"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trivia.CategorySelectorVC.selectedCategory.getter : Swift.Optional&lt;Swift.Int&gt;"
+                  moduleName = "Trivia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darianlee/Documents/GitHub/codepath-project3/ios101-project3-trivia-starter-main%202/Trivia/CategorySelectorVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "D4FA34EC-E1F5-4BE6-A73E-AA0808E88188 - dbba3ed90f412e75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trivia.CategorySelectorVC.selectedCategory.setter : Swift.Optional&lt;Swift.Int&gt;"
+                  moduleName = "Trivia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darianlee/Documents/GitHub/codepath-project3/ios101-project3-trivia-starter-main%202/Trivia/CategorySelectorVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "D4FA34EC-E1F5-4BE6-A73E-AA0808E88188 - d4a1df76aa08f16a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trivia.CategorySelectorVC.selectedCategory.modify : Swift.Optional&lt;Swift.Int&gt;"
+                  moduleName = "Trivia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darianlee/Documents/GitHub/codepath-project3/ios101-project3-trivia-starter-main%202/Trivia/CategorySelectorVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "D4FA34EC-E1F5-4BE6-A73E-AA0808E88188 - 5511acad9bb692a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trivia.CategorySelectorVC.selectedCategory.modify : Swift.Optional&lt;Swift.Int&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Trivia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darianlee/Documents/GitHub/codepath-project3/ios101-project3-trivia-starter-main%202/Trivia/CategorySelectorVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "D4FA34EC-E1F5-4BE6-A73E-AA0808E88188 - ad6ed0e99817b517"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trivia.CategorySelectorVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Trivia.CategorySelectorVC"
+                  moduleName = "Trivia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darianlee/Documents/GitHub/codepath-project3/ios101-project3-trivia-starter-main%202/Trivia/CategorySelectorVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "476">
+               </Location>
+               <Location
+                  uuid = "D4FA34EC-E1F5-4BE6-A73E-AA0808E88188 - d72486aa943c62e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trivia.CategorySelectorVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Trivia.CategorySelectorVC&gt;"
+                  moduleName = "Trivia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darianlee/Documents/GitHub/codepath-project3/ios101-project3-trivia-starter-main%202/Trivia/CategorySelectorVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "460">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
