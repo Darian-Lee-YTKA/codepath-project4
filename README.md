@@ -1,4 +1,4 @@
 # codepath-project4
 advanced trivia app using API
 
-<img src='Untitled.gif' width='' alt='Video Walkthrough' />
+<img src='Untitled.gif' width='10' alt='Video Walkthrough' />
